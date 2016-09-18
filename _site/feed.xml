@@ -6,9 +6,57 @@
 </description>
     <link>http://192.168.50.4:8081/</link>
     <atom:link href="http://192.168.50.4:8081/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Sep 2016 15:00:03 +0000</pubDate>
-    <lastBuildDate>Sun, 18 Sep 2016 15:00:03 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Sep 2016 15:17:02 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Sep 2016 15:17:02 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>A is for Apple Hester</title>
+        <description>&lt;p&gt;A is for Apple.
+		– Hester Pryne&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Sep 2016 15:16:13 +0000</pubDate>
+        <link>http://192.168.50.4:8081/autobot/2016/09/18/36970.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/18/36970.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
+        
+      </item>
+    
+      <item>
+        <title>Tempt not a desperate man</title>
+        <description>&lt;p&gt;Tempt not a desperate man.
+		– William Shakespeare, “Romeo and Juliet”&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Sep 2016 15:01:58 +0000</pubDate>
+        <link>http://192.168.50.4:8081/autobot/2016/09/18/19973.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/18/19973.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
+        
+      </item>
+    
+      <item>
+        <title>You ll never see all</title>
+        <description>&lt;p&gt;You’ll never see all the places, or read all the books, but fortunately,
+they’re not all recommended.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Sep 2016 15:01:17 +0000</pubDate>
+        <link>http://192.168.50.4:8081/autobot/2016/09/18/7857.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/18/7857.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -27,7 +75,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 18 Sep 2016 14:43:40 +0000</pubDate>
+        <pubDate>Sun, 18 Sep 2016 14:43:39 +0000</pubDate>
         <link>http://192.168.50.4:8081/jekyll/update/2016/09/18/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://192.168.50.4:8081/jekyll/update/2016/09/18/welcome-to-jekyll.html</guid>
         
@@ -35,6 +83,21 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Your business will assume vast</title>
+        <description>&lt;p&gt;Your business will assume vast proportions.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
+        <link>http://192.168.50.4:8081/autobot/2016/09/18/55009.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/18/55009.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
         
       </item>
     
