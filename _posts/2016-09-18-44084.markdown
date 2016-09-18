@@ -1,0 +1,9 @@
+---
+layout: post
+title:  You have a strong desire
+date:   2016-09-18 15:59:19
+categories: autobot
+tags: devops
+---
+
+You have a strong desire for a home and your family interests come first.
