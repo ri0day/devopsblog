@@ -1,0 +1,10 @@
+---
+layout: post
+title:  You ll never see all
+date:   2016-09-18 15:01:17
+categories: autobot
+tags: devops
+---
+
+You'll never see all the places, or read all the books, but fortunately,
+they're not all recommended.

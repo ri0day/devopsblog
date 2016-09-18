@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Tempt not a desperate man
+date:   2016-09-18 15:01:58
+categories: autobot
+tags: devops
+---
+
+Tempt not a desperate man.
+		-- William Shakespeare, "Romeo and Juliet"
