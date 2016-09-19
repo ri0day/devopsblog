@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Good day to let down
+date:   2016-09-19 14:15:01
+categories: autobot
+tags: devops
+---
+
+Good day to let down old friends who need help.
