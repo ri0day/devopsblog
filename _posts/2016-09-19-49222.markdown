@@ -1,0 +1,10 @@
+---
+layout: post
+title:  A is for Apple Hester
+date:   2016-09-19 15:35:01
+categories: autobot
+tags: devops
+---
+
+A is for Apple.
+		-- Hester Pryne
