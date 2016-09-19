@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Q What is purple and
+date:   2016-09-19 15:10:01
+categories: autobot
+tags: devops
+---
+
+Q:	What is purple and commutes?
+A:	An Abelian grape.
