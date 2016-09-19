@@ -6,9 +6,24 @@
 </description>
     <link>http://192.168.50.4:8081/</link>
     <atom:link href="http://192.168.50.4:8081/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 17:40:01 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 17:40:01 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2016 17:43:02 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 17:43:02 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Love is in the offing</title>
+        <description>&lt;p&gt;Love is in the offing.  Be affectionate to one who adores you.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 17:40:01 +0000</pubDate>
+        <link>http://192.168.50.4:8081/autobot/2016/09/19/29254.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/29254.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
+        
+      </item>
     
       <item>
         <title>Knucklehead Knock knock Pee Wee</title>
@@ -151,22 +166,6 @@ that makes horse-races.
         <pubDate>Mon, 19 Sep 2016 16:50:01 +0000</pubDate>
         <link>http://192.168.50.4:8081/autobot/2016/09/19/12899.html</link>
         <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/12899.html</guid>
-        
-        <category>devops</category>
-        
-        
-        <category>autobot</category>
-        
-      </item>
-    
-      <item>
-        <title>all the modern inconveniences</title>
-        <description>&lt;p&gt;“… all the modern inconveniences …”
-		– Mark Twain&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Sep 2016 16:45:01 +0000</pubDate>
-        <link>http://192.168.50.4:8081/autobot/2016/09/19/43604.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/43604.html</guid>
         
         <category>devops</category>
         
