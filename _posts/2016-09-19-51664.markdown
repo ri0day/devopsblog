@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Fine day to work off
+date:   2016-09-19 16:25:01
+categories: autobot
+tags: devops
+---
+
+Fine day to work off excess energy.  Steal something heavy.
