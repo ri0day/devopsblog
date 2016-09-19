@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Your motives for doing whatever
+date:   2016-09-19 18:05:40
+categories: autobot
+tags: devops
+---
+
+Your motives for doing whatever good deed you may have in mind will be
+misinterpreted by somebody.
