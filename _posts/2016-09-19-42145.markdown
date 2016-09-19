@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Q How many psychiatrists does
+date:   2016-09-19 17:00:01
+categories: autobot
+tags: devops
+---
+
+Q:	How many psychiatrists does it take to change a light bulb?
+A:	Only one, but it takes a long time, and the light bulb has
+	to really want to change.
