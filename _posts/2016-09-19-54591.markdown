@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Celebrate Hannibal Day this year
+date:   2016-09-19 14:35:01
+categories: autobot
+tags: devops
+---
+
+Celebrate Hannibal Day this year.  Take an elephant to lunch.
