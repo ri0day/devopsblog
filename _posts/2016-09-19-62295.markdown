@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Q What is orange and
+date:   2016-09-19 06:43:22
+categories: autobot
+tags: devops
+---
+
+Q:	What is orange and goes "click, click?"
+A:	A ball point carrot.
