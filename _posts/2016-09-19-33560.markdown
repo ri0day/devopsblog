@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Writing is turning one s
+date:   2016-09-19 06:44:53
+categories: autobot
+tags: devops
+---
+
+Writing is turning one's worst moments into money.
+		-- J.P. Donleavy
