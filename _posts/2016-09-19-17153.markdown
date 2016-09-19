@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Tomorrow you can be anywhere
+date:   2016-09-19 15:45:01
+categories: autobot
+tags: devops
+---
+
+Tomorrow, you can be anywhere.
