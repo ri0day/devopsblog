@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Next Friday will not be
+date:   2016-09-19 16:20:02
+categories: autobot
+tags: devops
+---
+
+Next Friday will not be your lucky day.  As a matter of fact, you don't
+have a lucky day this year.
