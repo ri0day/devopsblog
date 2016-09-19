@@ -1,0 +1,9 @@
+---
+layout: post
+title:  There will be big changes
+date:   2016-09-19 14:20:01
+categories: autobot
+tags: devops
+---
+
+There will be big changes for you but you will be happy.

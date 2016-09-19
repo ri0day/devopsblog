@@ -1,0 +1,11 @@
+---
+layout: post
+title:  It is often the case
+date:   2016-09-19 07:00:23
+categories: autobot
+tags: devops
+---
+
+It is often the case that the man who can't tell a lie thinks he is the best
+judge of one.
+		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
