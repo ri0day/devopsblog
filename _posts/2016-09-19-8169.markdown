@@ -1,0 +1,9 @@
+---
+layout: post
+title:  You will live a long
+date:   2016-09-19 17:10:01
+categories: autobot
+tags: devops
+---
+
+You will live a long, healthy, happy life and make bags of money.
