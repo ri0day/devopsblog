@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Beware of Bigfoot 
+date:   2016-09-19 14:30:01
+categories: autobot
+tags: devops
+---
+
+Beware of Bigfoot!
