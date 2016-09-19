@@ -1,0 +1,9 @@
+---
+layout: post
+title:  You will be divorced within
+date:   2016-09-19 15:15:01
+categories: autobot
+tags: devops
+---
+
+You will be divorced within a year.
