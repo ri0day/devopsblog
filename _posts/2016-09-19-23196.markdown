@@ -1,0 +1,9 @@
+---
+layout: post
+title:  A gift of a flower
+date:   2016-09-19 14:25:01
+categories: autobot
+tags: devops
+---
+
+A gift of a flower will soon be made to you.
