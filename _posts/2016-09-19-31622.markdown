@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Habit is habit and not
+date:   2016-09-19 15:50:01
+categories: autobot
+tags: devops
+---
+
+Habit is habit, and not to be flung out of the window by any man, but coaxed
+down-stairs a step at a time.
+		-- Mark Twain, "Pudd'nhead Wilson's Calendar
