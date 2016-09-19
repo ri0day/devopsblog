@@ -1,0 +1,9 @@
+---
+layout: post
+title:  It was all so different
+date:   2016-09-19 18:20:01
+categories: autobot
+tags: devops
+---
+
+It was all so different before everything changed.
