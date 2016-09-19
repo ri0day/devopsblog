@@ -6,9 +6,24 @@
 </description>
     <link>http://192.168.50.4:8081/</link>
     <atom:link href="http://192.168.50.4:8081/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 18:21:01 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 18:21:01 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2016 18:22:02 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 18:22:02 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Among the lucky you are</title>
+        <description>&lt;p&gt;Among the lucky, you are the chosen one.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 18:21:29 +0000</pubDate>
+        <link>http://192.168.50.4:8081/autobot/2016/09/19/52635.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/52635.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
+        
+      </item>
     
       <item>
         <title>It was all so different</title>
@@ -143,21 +158,6 @@ Knucklehead:	“I didn’t know you could yodel”&lt;/p&gt;
         <pubDate>Mon, 19 Sep 2016 17:30:01 +0000</pubDate>
         <link>http://192.168.50.4:8081/autobot/2016/09/19/10996.html</link>
         <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/10996.html</guid>
-        
-        <category>devops</category>
-        
-        
-        <category>autobot</category>
-        
-      </item>
-    
-      <item>
-        <title>You worry too much about</title>
-        <description>&lt;p&gt;You worry too much about your job.  Stop it.  You are not paid enough to worry.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Sep 2016 17:25:01 +0000</pubDate>
-        <link>http://192.168.50.4:8081/autobot/2016/09/19/707.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/707.html</guid>
         
         <category>devops</category>
         
