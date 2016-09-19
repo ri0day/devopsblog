@@ -1,0 +1,10 @@
+---
+layout: post
+title:  There s small choice in
+date:   2016-09-19 18:10:01
+categories: autobot
+tags: devops
+---
+
+There's small choice in rotten apples.
+		-- William Shakespeare, "The Taming of the Shrew"
