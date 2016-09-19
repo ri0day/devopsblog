@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Someone whom you reject today
+date:   2016-09-19 16:00:01
+categories: autobot
+tags: devops
+---
+
+Someone whom you reject today, will reject you tomorrow.
