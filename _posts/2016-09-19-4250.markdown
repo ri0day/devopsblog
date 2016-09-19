@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Q What do little WASPs
+date:   2016-09-19 16:15:01
+categories: autobot
+tags: devops
+---
+
+Q:	What do little WASPs want to be when they grow up?
+A:	The very best person they can possibly be.
