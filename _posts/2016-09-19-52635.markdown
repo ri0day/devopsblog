@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Among the lucky you are
+date:   2016-09-19 18:21:29
+categories: autobot
+tags: devops
+---
+
+Among the lucky, you are the chosen one.
