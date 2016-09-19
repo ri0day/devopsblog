@@ -1,0 +1,10 @@
+---
+layout: post
+title:  The human race has one
+date:   2016-09-19 18:40:01
+categories: autobot
+tags: devops
+---
+
+The human race has one really effective weapon, and that is laughter.
+		-- Mark Twain
