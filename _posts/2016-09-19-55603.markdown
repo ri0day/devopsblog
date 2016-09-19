@@ -1,0 +1,9 @@
+---
+layout: post
+title:  You will experience a strong
+date:   2016-09-19 18:30:01
+categories: autobot
+tags: devops
+---
+
+You will experience a strong urge to do good; but it will pass.
