@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your staging blog</title>
+    <title>Your dev blog</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://192.168.50.4:8081/</link>
-    <atom:link href="http://192.168.50.4:8081/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 17:45:01 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 17:45:01 +0000</lastBuildDate>
+    <link>http://192.168.50.4:8080/</link>
+    <atom:link href="http://192.168.50.4:8080/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Sep 2016 17:50:01 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 17:50:01 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;p&gt;Love is in the offing.  Be affectionate to one who adores you.&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Sep 2016 17:40:01 +0000</pubDate>
-        <link>http://192.168.50.4:8081/autobot/2016/09/19/29254.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/29254.html</guid>
+        <link>http://192.168.50.4:8080/autobot/2016/09/19/29254.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/29254.html</guid>
         
         <category>devops</category>
         
@@ -34,8 +34,8 @@ Pee Wee:	“Liddle ol’ lady who?”
 Knucklehead:	“I didn’t know you could yodel”&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Sep 2016 17:35:01 +0000</pubDate>
-        <link>http://192.168.50.4:8081/autobot/2016/09/19/16498.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/16498.html</guid>
+        <link>http://192.168.50.4:8080/autobot/2016/09/19/16498.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/16498.html</guid>
         
         <category>devops</category>
         
@@ -49,8 +49,8 @@ Knucklehead:	“I didn’t know you could yodel”&lt;/p&gt;
         <description>&lt;p&gt;You will be awarded a medal for disregarding safety in saving someone.&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Sep 2016 17:30:01 +0000</pubDate>
-        <link>http://192.168.50.4:8081/autobot/2016/09/19/10996.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/10996.html</guid>
+        <link>http://192.168.50.4:8080/autobot/2016/09/19/10996.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/10996.html</guid>
         
         <category>devops</category>
         
@@ -64,8 +64,8 @@ Knucklehead:	“I didn’t know you could yodel”&lt;/p&gt;
         <description>&lt;p&gt;You worry too much about your job.  Stop it.  You are not paid enough to worry.&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Sep 2016 17:25:01 +0000</pubDate>
-        <link>http://192.168.50.4:8081/autobot/2016/09/19/707.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/707.html</guid>
+        <link>http://192.168.50.4:8080/autobot/2016/09/19/707.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/707.html</guid>
         
         <category>devops</category>
         
@@ -83,8 +83,8 @@ teach.  Oh, tell me that I may sponge away the writing on this stone!
 		– Charles Dickens&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Sep 2016 17:20:40 +0000</pubDate>
-        <link>http://192.168.50.4:8081/autobot/2016/09/19/5051.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/5051.html</guid>
+        <link>http://192.168.50.4:8080/autobot/2016/09/19/5051.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/5051.html</guid>
         
         <category>devops</category>
         
@@ -98,8 +98,8 @@ teach.  Oh, tell me that I may sponge away the writing on this stone!
         <description>&lt;p&gt;You will live a long, healthy, happy life and make bags of money.&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Sep 2016 17:10:01 +0000</pubDate>
-        <link>http://192.168.50.4:8081/autobot/2016/09/19/8169.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/8169.html</guid>
+        <link>http://192.168.50.4:8080/autobot/2016/09/19/8169.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/8169.html</guid>
         
         <category>devops</category>
         
@@ -115,8 +115,8 @@ A:	You won’t find a lawyer who can change a light bulb.  Now, if
 	you’re looking for a lawyer to screw a light bulb…&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Sep 2016 17:05:01 +0000</pubDate>
-        <link>http://192.168.50.4:8081/autobot/2016/09/19/58127.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/58127.html</guid>
+        <link>http://192.168.50.4:8080/autobot/2016/09/19/58127.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/58127.html</guid>
         
         <category>devops</category>
         
@@ -132,8 +132,8 @@ A:	Only one, but it takes a long time, and the light bulb has
 	to really want to change.&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Sep 2016 17:00:01 +0000</pubDate>
-        <link>http://192.168.50.4:8081/autobot/2016/09/19/42145.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/42145.html</guid>
+        <link>http://192.168.50.4:8080/autobot/2016/09/19/42145.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/42145.html</guid>
         
         <category>devops</category>
         
@@ -147,8 +147,8 @@ A:	Only one, but it takes a long time, and the light bulb has
         <description>&lt;p&gt;Don’t relax!  It’s only your tension that’s holding you together.&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Sep 2016 16:55:01 +0000</pubDate>
-        <link>http://192.168.50.4:8081/autobot/2016/09/19/53241.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/53241.html</guid>
+        <link>http://192.168.50.4:8080/autobot/2016/09/19/53241.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/53241.html</guid>
         
         <category>devops</category>
         
@@ -164,8 +164,8 @@ that makes horse-races.
 		– Mark Twain, “Pudd’nhead Wilson’s Calendar”&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Sep 2016 16:50:01 +0000</pubDate>
-        <link>http://192.168.50.4:8081/autobot/2016/09/19/12899.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/12899.html</guid>
+        <link>http://192.168.50.4:8080/autobot/2016/09/19/12899.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/12899.html</guid>
         
         <category>devops</category>
         
