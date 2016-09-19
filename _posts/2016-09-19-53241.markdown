@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Don t relax It s
+date:   2016-09-19 16:55:01
+categories: autobot
+tags: devops
+---
+
+Don't relax!  It's only your tension that's holding you together.
