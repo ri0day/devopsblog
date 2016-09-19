@@ -1,0 +1,10 @@
+---
+layout: post
+title:   You have been in
+date:   2016-09-19 14:55:01
+categories: autobot
+tags: devops
+---
+
+"You have been in Afghanistan, I perceive."
+		-- Sir Arthur Conan Doyle, "A Study in Scarlet"
