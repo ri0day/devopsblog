@@ -6,9 +6,39 @@
 </description>
     <link>http://192.168.50.4:8080/</link>
     <atom:link href="http://192.168.50.4:8080/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 17:50:01 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 17:50:01 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2016 18:00:03 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 18:00:03 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>You ll feel much better</title>
+        <description>&lt;p&gt;You’ll feel much better once you’ve given up hope.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 18:00:01 +0000</pubDate>
+        <link>http://192.168.50.4:8080/autobot/2016/09/19/63801.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/63801.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
+        
+      </item>
+    
+      <item>
+        <title>Live in a world of</title>
+        <description>&lt;p&gt;Live in a world of your own, but always welcome visitors.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 17:50:01 +0000</pubDate>
+        <link>http://192.168.50.4:8080/autobot/2016/09/19/13708.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/13708.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
+        
+      </item>
     
       <item>
         <title>Love is in the offing</title>
@@ -134,38 +164,6 @@ A:	Only one, but it takes a long time, and the light bulb has
         <pubDate>Mon, 19 Sep 2016 17:00:01 +0000</pubDate>
         <link>http://192.168.50.4:8080/autobot/2016/09/19/42145.html</link>
         <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/42145.html</guid>
-        
-        <category>devops</category>
-        
-        
-        <category>autobot</category>
-        
-      </item>
-    
-      <item>
-        <title>Don t relax It s</title>
-        <description>&lt;p&gt;Don’t relax!  It’s only your tension that’s holding you together.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Sep 2016 16:55:01 +0000</pubDate>
-        <link>http://192.168.50.4:8080/autobot/2016/09/19/53241.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/53241.html</guid>
-        
-        <category>devops</category>
-        
-        
-        <category>autobot</category>
-        
-      </item>
-    
-      <item>
-        <title>It were not best that</title>
-        <description>&lt;p&gt;It were not best that we should all think alike; it is difference of opinion
-that makes horse-races.
-		– Mark Twain, “Pudd’nhead Wilson’s Calendar”&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Sep 2016 16:50:01 +0000</pubDate>
-        <link>http://192.168.50.4:8080/autobot/2016/09/19/12899.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/12899.html</guid>
         
         <category>devops</category>
         
