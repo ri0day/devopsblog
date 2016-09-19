@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Fame is a vapor popularity
+date:   2016-09-19 16:10:01
+categories: autobot
+tags: devops
+---
+
+Fame is a vapor; popularity an accident; the only earthly certainty is
+oblivion.
+		-- Mark Twain
