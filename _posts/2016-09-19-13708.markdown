@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Live in a world of
+date:   2016-09-19 17:50:01
+categories: autobot
+tags: devops
+---
+
+Live in a world of your own, but always welcome visitors.
