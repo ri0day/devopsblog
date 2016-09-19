@@ -6,9 +6,39 @@
 </description>
     <link>http://192.168.50.4:8080/</link>
     <atom:link href="http://192.168.50.4:8080/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 18:10:02 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 18:10:02 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2016 18:20:02 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 18:20:02 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>It was all so different</title>
+        <description>&lt;p&gt;It was all so different before everything changed.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 18:20:01 +0000</pubDate>
+        <link>http://192.168.50.4:8080/autobot/2016/09/19/7350.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/7350.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
+        
+      </item>
+    
+      <item>
+        <title>You will triumph over your</title>
+        <description>&lt;p&gt;You will triumph over your enemy.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 18:20:01 +0000</pubDate>
+        <link>http://192.168.50.4:8080/autobot/2016/09/19/11872.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/11872.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
+        
+      </item>
     
       <item>
         <title>There s small choice in</title>
@@ -128,40 +158,6 @@ Knucklehead:	“I didn’t know you could yodel”&lt;/p&gt;
         <pubDate>Mon, 19 Sep 2016 17:25:01 +0000</pubDate>
         <link>http://192.168.50.4:8080/autobot/2016/09/19/707.html</link>
         <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/707.html</guid>
-        
-        <category>devops</category>
-        
-        
-        <category>autobot</category>
-        
-      </item>
-    
-      <item>
-        <title>I will honour Christmas in</title>
-        <description>&lt;p&gt;I will honour Christmas in my heart, and try to keep it all the year.  I
-will live in the Past, the Present, and the Future.  The Spirits of all
-Three shall strive within me.  I will not shut out the lessons that they
-teach.  Oh, tell me that I may sponge away the writing on this stone!
-		– Charles Dickens&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Sep 2016 17:20:40 +0000</pubDate>
-        <link>http://192.168.50.4:8080/autobot/2016/09/19/5051.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/5051.html</guid>
-        
-        <category>devops</category>
-        
-        
-        <category>autobot</category>
-        
-      </item>
-    
-      <item>
-        <title>You will live a long</title>
-        <description>&lt;p&gt;You will live a long, healthy, happy life and make bags of money.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Sep 2016 17:10:01 +0000</pubDate>
-        <link>http://192.168.50.4:8080/autobot/2016/09/19/8169.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/8169.html</guid>
         
         <category>devops</category>
         
