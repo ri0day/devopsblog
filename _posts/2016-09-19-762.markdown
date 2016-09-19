@@ -1,0 +1,10 @@
+---
+layout: post
+title:  For a light heart lives
+date:   2016-09-19 15:25:01
+categories: autobot
+tags: devops
+---
+
+For a light heart lives long.
+		-- Shakespeare, "Love's Labour's Lost"
