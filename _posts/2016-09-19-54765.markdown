@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Truth will out this morning
+date:   2016-09-19 16:30:01
+categories: autobot
+tags: devops
+---
+
+Truth will out this morning.  (Which may really mess things up.)
