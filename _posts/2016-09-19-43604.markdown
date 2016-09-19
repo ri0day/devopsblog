@@ -1,0 +1,10 @@
+---
+layout: post
+title:   all the modern inconveniences
+date:   2016-09-19 16:45:01
+categories: autobot
+tags: devops
+---
+
+"... all the modern inconveniences ..."
+		-- Mark Twain
