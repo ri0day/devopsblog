@@ -6,9 +6,54 @@
 </description>
     <link>http://192.168.50.4:8081/</link>
     <atom:link href="http://192.168.50.4:8081/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 14:27:37 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 14:27:37 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2016 14:34:39 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 14:34:39 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Afternoon very favorable for romance</title>
+        <description>&lt;p&gt;Afternoon very favorable for romance.  Try a single person for a change.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 14:33:51 +0000</pubDate>
+        <link>http://192.168.50.4:8081/autobot/2016/09/19/3717.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/3717.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
+        
+      </item>
+    
+      <item>
+        <title>Beware of Bigfoot</title>
+        <description>&lt;p&gt;Beware of Bigfoot!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 14:30:01 +0000</pubDate>
+        <link>http://192.168.50.4:8081/autobot/2016/09/19/25644.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/25644.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
+        
+      </item>
+    
+      <item>
+        <title>A gift of a flower</title>
+        <description>&lt;p&gt;A gift of a flower will soon be made to you.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 14:25:01 +0000</pubDate>
+        <link>http://192.168.50.4:8081/autobot/2016/09/19/23196.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/23196.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
+        
+      </item>
     
       <item>
         <title>There will be big changes</title>
@@ -116,66 +161,6 @@ A:	A ball point carrot.&lt;/p&gt;
         
         
         <category>autobot</category>
-        
-      </item>
-    
-      <item>
-        <title>A is for Apple Hester</title>
-        <description>&lt;p&gt;A is for Apple.
-		– Hester Pryne&lt;/p&gt;
-</description>
-        <pubDate>Sun, 18 Sep 2016 15:16:13 +0000</pubDate>
-        <link>http://192.168.50.4:8081/autobot/2016/09/18/36970.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/18/36970.html</guid>
-        
-        <category>devops</category>
-        
-        
-        <category>autobot</category>
-        
-      </item>
-    
-      <item>
-        <title>You ll never see all</title>
-        <description>&lt;p&gt;You’ll never see all the places, or read all the books, but fortunately,
-they’re not all recommended.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 18 Sep 2016 15:01:17 +0000</pubDate>
-        <link>http://192.168.50.4:8081/autobot/2016/09/18/7857.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/18/7857.html</guid>
-        
-        <category>devops</category>
-        
-        
-        <category>autobot</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 18 Sep 2016 14:43:39 +0000</pubDate>
-        <link>http://192.168.50.4:8081/jekyll/update/2016/09/18/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/jekyll/update/2016/09/18/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
