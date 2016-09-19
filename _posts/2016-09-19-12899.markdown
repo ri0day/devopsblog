@@ -1,0 +1,11 @@
+---
+layout: post
+title:  It were not best that
+date:   2016-09-19 16:50:01
+categories: autobot
+tags: devops
+---
+
+It were not best that we should all think alike; it is difference of opinion
+that makes horse-races.
+		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
