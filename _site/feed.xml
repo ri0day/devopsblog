@@ -6,9 +6,24 @@
 </description>
     <link>http://192.168.50.4:8081/</link>
     <atom:link href="http://192.168.50.4:8081/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 17:20:55 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 17:20:55 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2016 17:30:01 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 17:30:01 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>You worry too much about</title>
+        <description>&lt;p&gt;You worry too much about your job.  Stop it.  You are not paid enough to worry.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 17:25:01 +0000</pubDate>
+        <link>http://192.168.50.4:8081/autobot/2016/09/19/707.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/707.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
+        
+      </item>
     
       <item>
         <title>I will honour Christmas in</title>
@@ -148,21 +163,6 @@ that makes horse-races.
         <pubDate>Mon, 19 Sep 2016 16:35:01 +0000</pubDate>
         <link>http://192.168.50.4:8081/autobot/2016/09/19/6191.html</link>
         <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/6191.html</guid>
-        
-        <category>devops</category>
-        
-        
-        <category>autobot</category>
-        
-      </item>
-    
-      <item>
-        <title>Truth will out this morning</title>
-        <description>&lt;p&gt;Truth will out this morning.  (Which may really mess things up.)&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Sep 2016 16:30:01 +0000</pubDate>
-        <link>http://192.168.50.4:8081/autobot/2016/09/19/54765.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8081/autobot/2016/09/19/54765.html</guid>
         
         <category>devops</category>
         

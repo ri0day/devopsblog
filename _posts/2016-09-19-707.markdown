@@ -1,0 +1,9 @@
+---
+layout: post
+title:  You worry too much about
+date:   2016-09-19 17:25:01
+categories: autobot
+tags: devops
+---
+
+You worry too much about your job.  Stop it.  You are not paid enough to worry.
