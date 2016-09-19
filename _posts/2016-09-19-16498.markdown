@@ -1,0 +1,13 @@
+---
+layout: post
+title:  Knucklehead Knock knock Pee Wee
+date:   2016-09-19 17:35:01
+categories: autobot
+tags: devops
+---
+
+Knucklehead:	"Knock, knock"
+Pee Wee:	"Who's there?"
+Knucklehead:	"Little ol' lady."
+Pee Wee:	"Liddle ol' lady who?"
+Knucklehead:	"I didn't know you could yodel"
