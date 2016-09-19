@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Don t plan any hasty
+date:   2016-09-19 14:50:01
+categories: autobot
+tags: devops
+---
+
+Don't plan any hasty moves.  You'll be evicted soon anyway.
