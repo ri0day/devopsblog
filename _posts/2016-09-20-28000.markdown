@@ -1,0 +1,10 @@
+---
+layout: post
+title:  I was gratified to be
+date:   2016-09-20 02:50:01
+categories: autobot
+tags: devops
+---
+
+I was gratified to be able to answer promptly, and I did. I said I didn't know.
+		-- Mark Twain

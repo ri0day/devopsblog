@@ -1,0 +1,9 @@
+---
+layout: post
+title:  This will be a memorable
+date:   2016-09-20 03:00:01
+categories: autobot
+tags: devops
+---
+
+This will be a memorable month -- no matter how hard you try to forget it.
