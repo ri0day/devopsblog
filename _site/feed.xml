@@ -6,9 +6,33 @@
 </description>
     <link>http://192.168.50.4:8080/</link>
     <atom:link href="http://192.168.50.4:8080/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Sep 2016 03:10:02 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Sep 2016 03:10:02 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2016 03:20:02 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2016 03:20:02 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Delay not Caesar Read it</title>
+        <description>&lt;p&gt;Delay not, Caesar.  Read it instantly.
+		– Shakespeare, “Julius Caesar” 3,1&lt;/p&gt;
+
+&lt;p&gt;Here is a letter, read it at your leisure.
+		– Shakespeare, “Merchant of Venice” 5,1&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[Quoted in &quot;VMS Internals and Data Structures&quot;, V4.4, when
+ referring to I/O system services.]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 20 Sep 2016 03:20:01 +0000</pubDate>
+        <link>http://192.168.50.4:8080/autobot/2016/09/20/31563.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/20/31563.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
+        
+      </item>
     
       <item>
         <title>Your domestic life may be</title>
@@ -162,42 +186,6 @@ A:	That’s proprietary information.  Answer available from AT&amp;amp;T on paym
         <pubDate>Mon, 19 Sep 2016 18:30:01 +0000</pubDate>
         <link>http://192.168.50.4:8080/autobot/2016/09/19/42146.html</link>
         <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/42146.html</guid>
-        
-        <category>devops</category>
-        
-        
-        <category>autobot</category>
-        
-      </item>
-    
-      <item>
-        <title>Like an expensive sports car</title>
-        <description>&lt;p&gt;Like an expensive sports car, fine-tuned and well-built, Portia was sleek,
-shapely, and gorgeous, her red jumpsuit moulding her body, which was as warm
-as seatcovers in July, her hair as dark as new tires, her eyes flashing like
-bright hubcaps, and her lips as dewy as the beads of fresh rain on the hood;
-she was a woman driven – fueled by a single accelerant – and she needed a
-man, a man who wouldn’t shift from his views, a man to steer her along the
-right road: a man like Alf Romeo.
-		– Rachel Sheeley, winner&lt;/p&gt;
-
-&lt;p&gt;The hair ball blocking the drain of the shower reminded Laura she would never
-see her little dog Pritzi again.
-		– Claudia Fields, runner-up&lt;/p&gt;
-
-&lt;p&gt;It could have been an organically based disturbance of the brain – perhaps a
-tumor or a metabolic deficiency – but after a thorough neurological exam it
-was determined that Byron was simply a jerk.
-		– Jeff Jahnke, runner-up&lt;/p&gt;
-
-&lt;p&gt;Winners in the 7th Annual Bulwer-Lytton Bad Writing Contest.  The contest is
-named after the author of the immortal lines:  “It was a dark and stormy
-night.”  The object of the contest is to write the opening sentence of the
-worst possible novel.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Sep 2016 18:28:13 +0000</pubDate>
-        <link>http://192.168.50.4:8080/autobot/2016/09/19/25645.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/25645.html</guid>
         
         <category>devops</category>
         
