@@ -6,8 +6,8 @@
 </description>
     <link>http://192.168.50.4:8080/</link>
     <atom:link href="http://192.168.50.4:8080/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Sep 2016 02:40:02 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Sep 2016 02:40:02 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2016 02:50:01 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2016 02:50:01 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -53,6 +53,22 @@ worst possible novel.&lt;/p&gt;
         <pubDate>Tue, 20 Sep 2016 02:30:52 +0000</pubDate>
         <link>http://192.168.50.4:8080/autobot/2016/09/20/9418.html</link>
         <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/20/9418.html</guid>
+        
+        <category>devops</category>
+        
+        
+        <category>autobot</category>
+        
+      </item>
+    
+      <item>
+        <title>I was gratified to be</title>
+        <description>&lt;p&gt;I was gratified to be able to answer promptly, and I did. I said I didn’t know.
+		– Mark Twain&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
+        <link>http://192.168.50.4:8080/autobot/2016/09/20/28000.html</link>
+        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/20/28000.html</guid>
         
         <category>devops</category>
         
@@ -182,21 +198,6 @@ worst possible novel.&lt;/p&gt;
         <pubDate>Mon, 19 Sep 2016 18:20:01 +0000</pubDate>
         <link>http://192.168.50.4:8080/autobot/2016/09/19/7350.html</link>
         <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/7350.html</guid>
-        
-        <category>devops</category>
-        
-        
-        <category>autobot</category>
-        
-      </item>
-    
-      <item>
-        <title>You will triumph over your</title>
-        <description>&lt;p&gt;You will triumph over your enemy.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Sep 2016 18:20:01 +0000</pubDate>
-        <link>http://192.168.50.4:8080/autobot/2016/09/19/11872.html</link>
-        <guid isPermaLink="true">http://192.168.50.4:8080/autobot/2016/09/19/11872.html</guid>
         
         <category>devops</category>
         
